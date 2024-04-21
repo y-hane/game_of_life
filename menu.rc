@@ -1,0 +1,9 @@
+GAME_OF_LIFE MENU {
+	POPUP "Restart" {
+		MENUITEM "Random", 11
+	}
+	POPUP "Speed" {
+		MENUITEM "Slow", 21
+		MENUITEM "Fast", 22
+	}
+}
